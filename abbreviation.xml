@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nomenclature id="a12" name="Swanson 2004" description="BAMS prototype XML nomenclature protocol" status="beta-2" version="1.0.0">
+	<url_bases>
+		<url_base id="u1" url="https://bams1.org/bkms/brain/show-braing2.php?aidi=" /> 
+	</url_bases>
+	<parts>
+		<part id="p12655" name="Central nervous system gray matter" abbreviation="CNSg" url_base="u1" />
+		<part id="p12169" name="Cerebrospinal trunk" abbreviation="TK" url_base="u1" />
+		<part id="p12593" name="Motor system" abbreviation="MOT" url_base="u1" />
+		<part id="p12629" name="Motoneuron Groups" abbreviation="MNG" url_base="u1" />
+		<part id="p12643" name="Preganglionic autonomic pools" abbreviation="ANSpre" url_base="u1" />
+		<part id="p12646" name="Preganglionic autonomic pools, sympathetic" abbreviation="ANSpres" url_base="u1" />
+		<part id="p12650" name="Intercalated nucleus, spinal cord" abbreviation="ICS" url_base="u1" />
+		<part id="p12649" name="Dorsal commissural nucleus" abbreviation="DOC" url_base="u1" />
+		<part id="p12648" name="Intermediolateral spinal column" abbreviation="IMM" url_base="u1" />
+		<part id="p12647" name="Intermediolateral spinal column, thoracolumbar division" abbreviation="IMLs" url_base="u1" />
+		<part id="p12644" name="Preganglionic autonomic pools, presympathetic" abbreviation="ANSprep" url_base="u1" />
+		<part id="p12645" name="Intermediolateral spinal column, sacral division" abbreviation="IMLp" url_base="u1" />
+		<part id="p12570" name="Nucleus ambiguus, ventral division" abbreviation="AMBv" url_base="u1" />
+		<part id="p12569" name="Dorsal motor nucleus of the vagus nerve" abbreviation="DMX" url_base="u1" />
+		<part id="p12568" name="Inferior salivatory nucleus" abbreviation="ISN" url_base="u1" />
+		<part id="p12567" name="Superior salivatory nucleus" abbreviation="SSN" url_base="u1" />
+		<part id="p12566" name="Edinger-Westphal nucleus" abbreviation="EW" url_base="u1" />
+		<part id="p12638" name="Somatic motoneuron pools" abbreviation="SMM" url_base="u1" />
+		<part id="p12639" name="Ventral horn of the spinal cord, general" abbreviation="VHg" url_base="u1" />
+		<part id="p12642" name="Phrenic nucleus" abbreviation="PN" url_base="u1" />
+		<part id="p12641" name="Onuf nucleus" abbreviation="ON" url_base="u1" />
+		<part id="p12660" name="Nucleus of the bulbocavernosus" abbreviation="NBC" url_base="u1" />
+		<part id="p12640" name="Ventral horn of the spinal cord" abbreviation="VH" url_base="u1" />
+		<part id="p12564" name="Hypoglossal nucleus" abbreviation="XII" url_base="u1" />
+		<part id="p12562" name="Nucleus of the spinal accessory nerve" abbreviation="XI" url_base="u1" />
+		<part id="p12558" name="Nucleus ambiguus dorsal division" abbreviation="AMBd" url_base="u1" />
+		<part id="p12556" name="Efferent vesstibular nucleus" abbreviation="EV" url_base="u1" />
+		<part id="p12555" name="Efferent cochlear group" abbreviation="ECO" url_base="u1" />
+		<part id="p12552" name="Accessory facial nucleus" abbreviation="ACVII" url_base="u1" />
+		<part id="p12551" name="Facial nucleus" abbreviation="VII" url_base="u1" />
+		<part id="p12441" name="Motor nucleus of the trigeminal" abbreviation="V" url_base="u1" />
+		<part id="p12440" name="Motor nucleus of the trigeminal parvicellular part" abbreviation="Vpc" url_base="u1" />
+		<part id="p12439" name="Motor nucleus of the trigeminal magnocellular part" abbreviation="Vma" url_base="u1" />
+		<part id="p12444" name="Accesory abducens nucleus" abbreviation="ACVI" url_base="u1" />
+		<part id="p12445" name="Abducens nucleus" abbreviation="VI" url_base="u1" />
+		<part id="p12446" name="Trochlear nucleus" abbreviation="IV" url_base="u1" />
+		<part id="p12449" name="Oculomotor nucleus" abbreviation="III" url_base="u1" />
+		<part id="p12630" name="Neuroendocrine motor zone" abbreviation="NEM" url_base="u1" />
+		<part id="p12635" name="Neuroendocrine motor zone, parvicellular" abbreviation="NEMp" url_base="u1" />
+		<part id="p12637" name="Infundibulum, external lamina" abbreviation="INFex" url_base="u1" />
+		<part id="p12636" name="Median eminence,external lamina" abbreviation="MEex" url_base="u1" />
+		<part id="p12297" name="Arcuate hypothalamic nucleus" abbreviation="ARH" url_base="u1" />
+		<part id="p12298" name="Periventricular hypothalamic nucleus, intermediate part" abbreviation="PVi" url_base="u1" />
+		<part id="p12303" name="Anterior periventricular nucleus of the hypothalamus" abbreviation="PVa" url_base="u1" />
+		<part id="p12307" name="Paraventricular hypothalamic nucleus, parvicellular division" abbreviation="PVHp" url_base="u1" />
+		<part id="p12304" name="Paraventricular hypothalamic nucleus, parvicellular division, periventricular part" abbreviation="PVHpv" url_base="u1" />
+		<part id="p12305" name="Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone" abbreviation="PVHmpd" url_base="u1" />
+		<part id="p12306" name="Paraventricular hypothalamic nucleuss, parvicellular division, anterior parvicellular part" abbreviation="PVHap" url_base="u1" />
+		<part id="p12631" name="Neuroendocrine motor zone magnocellular" abbreviation="NEMm" url_base="u1" />
+		<part id="p12340" name="Pituitary gland, neural lobe" abbreviation="NL" url_base="u1" />
+		<part id="p12633" name="Infundibulum, internal lamina" abbreviation="INFin" url_base="u1" />
+		<part id="p12632" name="Median eminence, internal lamina" abbreviation="MEin" url_base="u1" />
+		<part id="p12313" name="Paraventricular hypothalamic nucleus, magnocellular division" abbreviation="PVHm" url_base="u1" />
+		<part id="p12310" name="Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part" abbreviation="PVHpm" url_base="u1" />
+		<part id="p12308" name="Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone" abbreviation="PVHpml" url_base="u1" />
+		<part id="p12309" name="Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone" abbreviation="PVHpmm" url_base="u1" />
+		<part id="p12311" name="Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part" abbreviation="PVHmm" url_base="u1" />
+		<part id="p12312" name="Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part" abbreviation="PVHam" url_base="u1" />
+		<part id="p12321" name="Supraoptic nucleus, accessory supraoptic group" abbreviation="ASO" url_base="u1" />
+		<part id="p12320" name="Nucleus circularis" abbreviation="NC" url_base="u1" />
+		<part id="p12323" name="Supraoptic nucleus, general" abbreviation="SOg" url_base="u1" />
+		<part id="p12322" name="Supraoptic nucleus retrochiasmatic part" abbreviation="SOr" url_base="u1" />
+		<part id="p12338" name="Supraoptic nucleus, proper" abbreviation="SO" url_base="u1" />
+		<part id="p12383" name="Reticular formation" abbreviation="RET" url_base="u1" />
+		<part id="p12366" name="Medullary reticular nucleus" abbreviation="MDRN" url_base="u1" />
+		<part id="p12364" name="Medullary reticular nucleus ventral part" abbreviation="MDRNv" url_base="u1" />
+		<part id="p12365" name="Medullary reticular nucleus dorsal part" abbreviation="MDRNd" url_base="u1" />
+		<part id="p12571" name="Parvicellular reticular nucleus" abbreviation="PARN" url_base="u1" />
+		<part id="p12367" name="Supratrigeminal nucleus" abbreviation="SUT" url_base="u1" />
+		<part id="p12368" name="Magnocellular reticular nucleus" abbreviation="MARN" url_base="u1" />
+		<part id="p12371" name="Parapyramidal nucleus" abbreviation="PPY" url_base="u1" />
+		<part id="p12369" name="Parapyramidal nucleus superficial part" abbreviation="PPYs" url_base="u1" />
+		<part id="p12370" name="Parapyramidal nucleus deep part" abbreviation="PPYd" url_base="u1" />
+		<part id="p12374" name="Paragigantocellular reticular nucleus" abbreviation="PGRN" url_base="u1" />
+		<part id="p12372" name="Paragigantocellular reticular nucleus lateral part" abbreviation="PGRNl" url_base="u1" />
+		<part id="p12373" name="Paragigantocellular reticular nucleus dorsal part" abbreviation="PGRNd" url_base="u1" />
+		<part id="p12375" name="Gigantocellular reticular nucleus" abbreviation="GRN" url_base="u1" />
+		<part id="p12377" name="Pontine reticular nucleus caudal part" abbreviation="PRNc" url_base="u1" />
+		<part id="p12379" name="Cuneiform nucleus" abbreviation="CUN" url_base="u1" />
+		<part id="p12627" name="Midbrain reticular nucleus, magnocellular part, general" abbreviation="MRNmg" url_base="u1" />
+		<part id="p12532" name="Dorsal terminal nucleus of the accessory optic tract" abbreviation="DT" url_base="u1" />
+		<part id="p12533" name="Lateral terminal nucleus of the accessory optic tract" abbreviation="LT" url_base="u1" />
+		<part id="p12534" name="Medial terminal nucleus of the accessory optic tract" abbreviation="MT" url_base="u1" />
+		<part id="p12418" name="Anterior tegmental nucleus" abbreviation="AT" url_base="u1" />
+		<part id="p12419" name="Ventral tegmental nucleus" abbreviation="VTN" url_base="u1" />
+		<part id="p12628" name="Midbrain reticular nucleus, magnocellular part" abbreviation="MRNm" url_base="u1" />
+		<part id="p12350" name="Pretectal region" abbreviation="PRT" url_base="u1" />
+		<part id="p12344" name="Medial pretectal area" abbreviation="MPT" url_base="u1" />
+		<part id="p12345" name="Anterior pretectal nucleus" abbreviation="APN" url_base="u1" />
+		<part id="p12346" name="Nucleus of the posterior commissure" abbreviation="NPC" url_base="u1" />
+		<part id="p12347" name="Posterior pretectal nucleus" abbreviation="PPT" url_base="u1" />
+		<part id="p12348" name="Nucleus of the optic tract" abbreviation="NOT" url_base="u1" />
+		<part id="p12349" name="Olivary pretectal nucleus" abbreviation="OP" url_base="u1" />
+		<part id="p12234" name="Geniculate group of the ventral thalamus" abbreviation="GENv" url_base="u1" />
+		<part id="p12232" name="Ventral part of the lateral geniculate complex" abbreviation="LGv" url_base="u1" />
+		<part id="p12230" name="Ventral part of the lateral geniculate complex medial zone" abbreviation="LGvm" url_base="u1" />
+		<part id="p12231" name="Ventral part of the lateral geniculate complex lateral zone" abbreviation="LGvl" url_base="u1" />
+		<part id="p12233" name="Intergeniculate leaflet of the lateral geniculate complex" abbreviation="IGL" url_base="u1" />
+		<part id="p12226" name="Zona incerta, general" abbreviation="ZIg" url_base="u1" />
+		<part id="p12227" name="Fields of Forel" abbreviation="FF" url_base="u1" />
+		<part id="p12228" name="Zona incerta dopaminergic group" abbreviation="ZIda" url_base="u1" />
+		<part id="p12229" name="Zona incerta" abbreviation="ZI" url_base="u1" />
+		<part id="p12255" name="Hypothalamic lateral zone, motor related" abbreviation="LZm" url_base="u1" />
+		<part id="p12251" name="Subthalamic nucleus" abbreviation="STN" url_base="u1" />
+		<part id="p12626" name="Parasubthalamic nucleus" abbreviation="PSTN" url_base="u1" />
+		<part id="p12625" name="Preparasubthalamic nucleus" abbreviation="PST" url_base="u1" />
+		<part id="p12335" name="Lateral hypothalamic area, motor related" abbreviation="LHAmo" url_base="u1" />
+		<part id="p12659" name="Lateral hypothalamic area posterior region" abbreviation="LHAp" url_base="u1" />
+		<part id="p12622" name="Lateral hypothalamic area ventral region" abbreviation="LHAv" url_base="u1" />
+		<part id="p12624" name="Lateral hypothalamic area ventral region lateral zone" abbreviation="LHAvl" url_base="u1" />
+		<part id="p12623" name="Lateral hypothalamic area ventral region medial zone" abbreviation="LHAvm" url_base="u1" />
+		<part id="p12621" name="Lateral hypothalamic area parvicellular region" abbreviation="LHApc" url_base="u1" />
+		<part id="p12620" name="Lateral hypothalamic area magnocellular nucleus" abbreviation="LHAm" url_base="u1" />
+		<part id="p12616" name="Lateral hypothalamic area subfornical region" abbreviation="LHAsf" url_base="u1" />
+		<part id="p12619" name="Lateral hypothalamic area subfornical region premammillary zone" abbreviation="LHAsfpm" url_base="u1" />
+		<part id="p12618" name="Lateral hypothalamic area subfornical region posterior zone" abbreviation="LHAsfp" url_base="u1" />
+		<part id="p12617" name="Lateral hypothalamic area subfornical region anterior zone" abbreviation="LHAsfa" url_base="u1" />
+		<part id="p12615" name="Lateral hypothalamic area suprafornical region" abbreviation="LHAs" url_base="u1" />
+		<part id="p12252" name="Tuberal nucleus" abbreviation="TU" url_base="u1" />
+		<part id="p12614" name="Tuberal nucleus lateral part" abbreviation="TUl" url_base="u1" />
+		<part id="p12613" name="Tuberal nucleus terete part" abbreviation="TUte" url_base="u1" />
+		<part id="p12612" name="Tuberal nucleus intermediate part" abbreviation="TUi" url_base="u1" />
+		<part id="p12611" name="Tuberal nucleus subventromedial part" abbreviation="TUsv" url_base="u1" />
+		<part id="p12275" name="Retrochiasmatic area" abbreviation="RCH" url_base="u1" />
+		<part id="p12607" name="Lateral hypothalamic area, anterior region" abbreviation="LHAa" url_base="u1" />
+		<part id="p12610" name="Lateral hypothalamic area, anterior region ventral zone" abbreviation="LHAav" url_base="u1" />
+		<part id="p12609" name="Lateral hypothalamic area, anterior region intermediate zone" abbreviation="LHAai" url_base="u1" />
+		<part id="p12608" name="Lateral hypothalamic area, anterior region dorsal zone" abbreviation="LHAad" url_base="u1" />
+		<part id="p12604" name="Lateral hypothalamic area, juxtaventromedial region" abbreviation="LHAjv" url_base="u1" />
+		<part id="p12606" name="Lateral hypothalamic area, juxtaventromedial region ventral zone" abbreviation="LHAjvv" url_base="u1" />
+		<part id="p12605" name="Lateral hypothalamic area, juxtaventromedial region dorsal zone" abbreviation="LHAjvd" url_base="u1" />
+		<part id="p12603" name="Lateral hypothalamic area, juxtadorsomedial region" abbreviation="LHAjd" url_base="u1" />
+		<part id="p12253" name="Lateral hypothalamic area juxtaparaventricular region" abbreviation="LHAjp" url_base="u1" />
+		<part id="p12254" name="Lateral preoptic area" abbreviation="LPO" url_base="u1" />
+		<part id="p12601" name="Hypothalamic periventricular region" abbreviation="PVR" url_base="u1" />
+		<part id="p12602" name="Internuclear area, hypothalamic periventricular region" abbreviation="I" url_base="u1" />
+		<part id="p12296" name="Posterior periventricular nucleus of the hypothalamus" abbreviation="PVp" url_base="u1" />
+		<part id="p12302" name="Dorsomedial nucleus of the hypothalamus" abbreviation="DMH" url_base="u1" />
+		<part id="p12299" name="Dorsomedial nucleus of the hypothalamus ventral part" abbreviation="DMHv" url_base="u1" />
+		<part id="p12300" name="Dorsomedial nucleus of the hypothalamus posterior part" abbreviation="DMHp" url_base="u1" />
+		<part id="p12301" name="Dorsomedial nucleus of the hypothalamus anterior part" abbreviation="DMHa" url_base="u1" />
+		<part id="p12285" name="Anterior hypothalamic area" abbreviation="AHA" url_base="u1" />
+		<part id="p12294" name="Medial preoptic area" abbreviation="MPO" url_base="u1" />
+		<part id="p12286" name="Parastrial nucleus" abbreviation="PS" url_base="u1" />
+		<part id="p12287" name="Posterodorsal preoptic nucleus" abbreviation="PD" url_base="u1" />
+		<part id="p12288" name="Anteroventral preoptic nucleus" abbreviation="AVP" url_base="u1" />
+		<part id="p12289" name="Anterodorsal preoptic nucleus" abbreviation="ADP" url_base="u1" />
+		<part id="p12324" name="Preoptic periventricular nucleus" abbreviation="PVpo" url_base="u1" />
+		<part id="p12325" name="Anteroventral periventricular nucleus" abbreviation="AVPV" url_base="u1" />
+		<part id="p12327" name="Suprachiasmatic preoptic nucleus" abbreviation="PSCH" url_base="u1" />
+		<part id="p12326" name="Median preoptic nucleus" abbreviation="MEPO" url_base="u1" />
+		<part id="p12432" name="Central gray" abbreviation="CG" url_base="u1" />
+		<part id="p12600" name="Spinal central gray" abbreviation="CGS" url_base="u1" />
+		<part id="p12538" name="Pontine central gray general" abbreviation="PCGg" url_base="u1" />
+		<part id="p12411" name="Supragenual nucleus" abbreviation="SG" url_base="u1" />
+		<part id="p12412" name="Barrington nucleus" abbreviation="B" url_base="u1" />
+		<part id="p12417" name="Lateral tegmental nucleus" abbreviation="LTN" url_base="u1" />
+		<part id="p12420" name="Dorsal tegmental nucleus" abbreviation="DTN" url_base="u1" />
+		<part id="p12410" name="Pontine central gray" abbreviation="PCG" url_base="u1" />
+		<part id="p12431" name="Periaqueductal gray" abbreviation="PAG" url_base="u1" />
+		<part id="p12421" name="Nucleus of Darkschewitsch" abbreviation="ND" url_base="u1" />
+		<part id="p12422" name="Interstitial nucleus of Cajal" abbreviation="INC" url_base="u1" />
+		<part id="p12448" name="Medial accessory nucleus" abbreviation="MAN" url_base="u1" />
+		<part id="p12424" name="Periaqueductal gray ventrolateral division" abbreviation="PAGvl" url_base="u1" />
+		<part id="p12423" name="Periaqueductal gray dorsolateral division" abbreviation="PAGdl" url_base="u1" />
+		<part id="p12425" name="Periaqueductal gray dorsal division" abbreviation="PAGd" url_base="u1" />
+		<part id="p12426" name="Periaqueductal gray medial division" abbreviation="PAGm" url_base="u1" />
+		<part id="p12427" name="Periaqueductal gray rostrolateral division" abbreviation="PAGrl" url_base="u1" />
+		<part id="p12428" name="Periaqueductal gray rostromedial division" abbreviation="PAGrm" url_base="u1" />
+		<part id="p12429" name="Commissural nucleus" abbreviation="COM" url_base="u1" />
+		<part id="p12430" name="Precommissural nucleus" abbreviation="PRC" url_base="u1" />
+		<part id="p12256" name="Posterior hypothalamic nucleus" abbreviation="PH" url_base="u1" />
+		<part id="p12220" name="Epithalamus" abbreviation="EPI" url_base="u1" />
+		<part id="p12599" name="Pineal gland" abbreviation="PIN" url_base="u1" />
+		<part id="p12237" name="Lateral habenula" abbreviation="LH" url_base="u1" />
+		<part id="p12240" name="Medial habenula" abbreviation="MH" url_base="u1" />
+		<part id="p12238" name="Medial habenula ventral part" abbreviation="MHv" url_base="u1" />
+		<part id="p12239" name="Medial habenula dorsal part" abbreviation="MHd" url_base="u1" />
+		<part id="p12598" name="Vestibulomotor regions" abbreviation="VMO" url_base="u1" />
+		<part id="p12476" name="Infracerebellar nucleus" abbreviation="ICB" url_base="u1" />
+		<part id="p12477" name="Nucleus y" abbreviation="y" url_base="u1" />
+		<part id="p12478" name="Nucleus x" abbreviation="x" url_base="u1" />
+		<part id="p12479" name="Interstitial nucleus of the vestibular nerve" abbreviation="INV" url_base="u1" />
+		<part id="p12483" name="Perihypoglossal nuclei" abbreviation="PHY" url_base="u1" />
+		<part id="p12480" name="Nucleus of Roller" abbreviation="NR" url_base="u1" />
+		<part id="p12481" name="Nucleus prepositus" abbreviation="PRP" url_base="u1" />
+		<part id="p12482" name="Nucleus intercalatus" abbreviation="NIS" url_base="u1" />
+		<part id="p12488" name="Vestibular nuclei" abbreviation="VNC" url_base="u1" />
+		<part id="p12484" name="Spinal vestibular nucleus" abbreviation="SPIV" url_base="u1" />
+		<part id="p12485" name="Superior vestibular nucleus" abbreviation="SUV" url_base="u1" />
+		<part id="p12486" name="Lateral vestibular nucleus" abbreviation="LAV" url_base="u1" />
+		<part id="p12487" name="Medial vestibular nucleus" abbreviation="MV" url_base="u1" />
+		<part id="p12597" name="Postcerebellar and precerebellar nuclei" abbreviation="CBPP" url_base="u1" />
+		<part id="p12548" name="Parasolitary nucleus" abbreviation="PAS" url_base="u1" />
+		<part id="p12547" name="Paramedian reticular nucleus" abbreviation="PMR" url_base="u1" />
+		<part id="p12546" name="Linear nucleus of the medulla" abbreviation="LIN" url_base="u1" />
+		<part id="p12543" name="Lateral reticular nucleus" abbreviation="LRN" url_base="u1" />
+		<part id="p12545" name="Lateral reticular nucleus parvicellular part" abbreviation="LRNp" url_base="u1" />
+		<part id="p12544" name="Lateral reticular nucleus magnocellular part" abbreviation="LRNm" url_base="u1" />
+		<part id="p12539" name="Inferior olivary complex" abbreviation="IO" url_base="u1" />
+		<part id="p12542" name="Principal olive" abbreviation="IOpr" url_base="u1" />
+		<part id="p12541" name="Medial accessory olive" abbreviation="IOma" url_base="u1" />
+		<part id="p12540" name="Dorsal accessory olive" abbreviation="IOda" url_base="u1" />
+		<part id="p12654" name="Pontine gray, general" abbreviation="PGg" url_base="u1" />
+		<part id="p12537" name="Tegmental reticular nucleus" abbreviation="TRN" url_base="u1" />
+		<part id="p12536" name="Pontine gray" abbreviation="PG" url_base="u1" />
+		<part id="p12549" name="Red nucleus" abbreviation="RN" url_base="u1" />
+		<part id="p12596" name="Superior colliculus, motor related" abbreviation="SCm" url_base="u1" />
+		<part id="p12352" name="Superior colliculus intermediate deep white layer" abbreviation="SCdw" url_base="u1" />
+		<part id="p12353" name="Superior colliculus intermediate deep gray layer" abbreviation="SCdg" url_base="u1" />
+		<part id="p12354" name="Superior colliculus intermediate white layer" abbreviation="SCiw" url_base="u1" />
+		<part id="p12358" name="Superior colliculus intermediate gray layer" abbreviation="SCig" url_base="u1" />
+		<part id="p12355" name="Superior colliculus intermediate gray layer sublayer c" abbreviation="SCig.c" url_base="u1" />
+		<part id="p12356" name="Superior colliculus intermediate gray layer sublayer b" abbreviation="SCig.b" url_base="u1" />
+		<part id="p12357" name="Superior colliculus intermediate gray layer sublayer a" abbreviation="SCig.a" url_base="u1" />
+		<part id="p12594" name="Behavior control column" abbreviation="BCC" url_base="u1" />
+		<part id="p12382" name="Midbrain reticular nucleus, parvicellular part" abbreviation="MRNp" url_base="u1" />
+		<part id="p12381" name="Midbraiin reticular nucleus, retrorubral area" abbreviation="RR" url_base="u1" />
+		<part id="p12434" name="Ventral tegmental area" abbreviation="VTA" url_base="u1" />
+		<part id="p12435" name="Substantia nigra reticular part" abbreviation="SNr" url_base="u1" />
+		<part id="p12267" name="Mammillary body" abbreviation="MBO" url_base="u1" />
+		<part id="p12257" name="Lateral mammillary nucleus" abbreviation="LM" url_base="u1" />
+		<part id="p12259" name="Medial mammillary nucleus" abbreviation="MMg" url_base="u1" />
+		<part id="p12258" name="Medial mammillary nucleus median part" abbreviation="MMme" url_base="u1" />
+		<part id="p12595" name="Medial mammillary nucleus, body" abbreviation="MM" url_base="u1" />
+		<part id="p12260" name="Dorsal premammillary nucleus" abbreviation="PMd" url_base="u1" />
+		<part id="p12268" name="Ventral premammillary nucleus" abbreviation="PMv" url_base="u1" />
+		<part id="p12273" name="Ventromedial nucleus of the hypothalamus" abbreviation="VMH" url_base="u1" />
+		<part id="p12269" name="Ventromedial nucleus of the hypothalamus ventrolateral part" abbreviation="VMHvl" url_base="u1" />
+		<part id="p12270" name="Ventromedial nucleus of the hypothalamus central part" abbreviation="VMHc" url_base="u1" />
+		<part id="p12271" name="Ventromedial nucleus of the hypothalamus dorsomedial part" abbreviation="VMHdm" url_base="u1" />
+		<part id="p12272" name="Ventromedial nucleus of the hypothalamus anterior part" abbreviation="VMHa" url_base="u1" />
+		<part id="p12318" name="Paraventricular hypothalamic nucleus, descending division" abbreviation="PVHd" url_base="u1" />
+		<part id="p12314" name="Paraventricular hypothalamic nucleus, descending division, forniceal part" abbreviation="PVHf" url_base="u1" />
+		<part id="p12315" name="Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part" abbreviation="PVHlp" url_base="u1" />
+		<part id="p12316" name="Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part" abbreviation="PVHdp" url_base="u1" />
+		<part id="p12317" name="Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone" abbreviation="PVHmpv" url_base="u1" />
+		<part id="p12284" name="Anterior hypothalamic nucleus" abbreviation="AHN" url_base="u1" />
+		<part id="p12280" name="Anterior hypothalamic dorsal part" abbreviation="AHNd" url_base="u1" />
+		<part id="p12281" name="Anterior hypothalamic posterior part" abbreviation="AHNp" url_base="u1" />
+		<part id="p12282" name="Anterior hypothalamic central part" abbreviation="AHNc" url_base="u1" />
+		<part id="p12283" name="Anterior hypothalamic nucleus anterior part" abbreviation="AHNa" url_base="u1" />
+		<part id="p12293" name="Medial preoptic nucleus" abbreviation="MPN" url_base="u1" />
+		<part id="p12290" name="Medial preoptic nucleus central part" abbreviation="MPNc" url_base="u1" />
+		<part id="p12291" name="Medial preoptic nucleus medial part" abbreviation="MPNm" url_base="u1" />
+		<part id="p12292" name="Medial preoptic nucleus lateral part" abbreviation="MPNl" url_base="u1" />
+		<part id="p12590" name="Behavioral state system" abbreviation="STA" url_base="u1" />
+		<part id="p12413" name="Subcoeruleus nucleus" abbreviation="SLC" url_base="u1" />
+		<part id="p12414" name="Locus coeruleus" abbreviation="LC" url_base="u1" />
+		<part id="p12415" name="Sublaterodorsal nucleus" abbreviation="SLD" url_base="u1" />
+		<part id="p12416" name="Laterodorsal tegmental nucleus" abbreviation="LDT" url_base="u1" />
+		<part id="p12409" name="Raphe nuclei" abbreviation="RA" url_base="u1" />
+		<part id="p12395" name="Nucleus raphe obscurus" abbreviation="RO" url_base="u1" />
+		<part id="p12396" name="Nucleus raphe pallidus" abbreviation="RPA" url_base="u1" />
+		<part id="p12397" name="Nucleus raphe magnus" abbreviation="RM" url_base="u1" />
+		<part id="p12398" name="Nucleus raphe pontis" abbreviation="RPO" url_base="u1" />
+		<part id="p12401" name="Nucleus incertus" abbreviation="NI" url_base="u1" />
+		<part id="p12399" name="Nucleus incertus diffuse part" abbreviation="NId" url_base="u1" />
+		<part id="p12400" name="Nucleus incertus compact part" abbreviation="NIc" url_base="u1" />
+		<part id="p12402" name="Dorsal nucleus raphe" abbreviation="DR" url_base="u1" />
+		<part id="p12405" name="Superior central nucleus raphe" abbreviation="CS" url_base="u1" />
+		<part id="p12403" name="Superior central nucleus raphe lateral part" abbreviation="CSl" url_base="u1" />
+		<part id="p12404" name="Superior central nucleus raphe medial part" abbreviation="CSm" url_base="u1" />
+		<part id="p12406" name="Central linear nucleus raphe" abbreviation="CLI" url_base="u1" />
+		<part id="p12407" name="Rostral linear nucleus raphe" abbreviation="RL" url_base="u1" />
+		<part id="p12394" name="Interpeduncular nucleus" abbreviation="IPN" url_base="u1" />
+		<part id="p12384" name="Interpeduncular nucleus central subnucleus" abbreviation="IPNc" url_base="u1" />
+		<part id="p12385" name="Interpeduncular nucleus intermediate subnucleus" abbreviation="IPNi" url_base="u1" />
+		<part id="p12390" name="Interpeduncular nucleus lateral subnucleus" abbreviation="IPNl" url_base="u1" />
+		<part id="p12386" name="Interpeduncular nucleus lateral subnucleus rostral part" abbreviation="IPNlr" url_base="u1" />
+		<part id="p12387" name="Interpeduncular nucleus lateral subnucleus ventral part" abbreviation="IPNlv" url_base="u1" />
+		<part id="p12388" name="Interpeduncular nucleus lateral subnucleus intermediate part" abbreviation="IPNli" url_base="u1" />
+		<part id="p12389" name="Interpeduncular nucleus lateral subnucleus dorsal part" abbreviation="IPNld" url_base="u1" />
+		<part id="p12391" name="Interpeduncular nucleus dorsomedial subnucleus" abbreviation="IPNd" url_base="u1" />
+		<part id="p12392" name="Interpeduncular nucleus apical subnucleus" abbreviation="IPNa" url_base="u1" />
+		<part id="p12393" name="Interpeduncular nucleus rostral subnucleus" abbreviation="IPNr" url_base="u1" />
+		<part id="p12408" name="Interfascicular nucleus raphe" abbreviation="IF" url_base="u1" />
+		<part id="p12376" name="Pontine reticular nucleus rostral part" abbreviation="PRNr" url_base="u1" />
+		<part id="p12380" name="Pedunculopontine nucleus" abbreviation="PPN" url_base="u1" />
+		<part id="p12436" name="Substantia nigra compact part" abbreviation="SNc" url_base="u1" />
+		<part id="p12263" name="Supramammillary nucleus" abbreviation="SUM" url_base="u1" />
+		<part id="p12262" name="Supramammillary nucleus lateral part" abbreviation="SUMl" url_base="u1" />
+		<part id="p12261" name="Supramammillary nucleus medial part" abbreviation="SUMm" url_base="u1" />
+		<part id="p12266" name="Tuberomammillary nucleus" abbreviation="TM" url_base="u1" />
+		<part id="p12264" name="Tuberomammillary nucleus ventral part" abbreviation="TMv" url_base="u1" />
+		<part id="p12265" name="Tuberomammillary nucleus dorsal part" abbreviation="TMd" url_base="u1" />
+		<part id="p12592" name="Hypothalamic lateral zone, state related" abbreviation="LZs" url_base="u1" />
+		<part id="p12651" name="Lateral hypothalamic area, dorsal region" abbreviation="LHAd" url_base="u1" />
+		<part id="p12276" name="Subparaventricular zone" abbreviation="SBPV" url_base="u1" />
+		<part id="p12279" name="Suprachiasmatic nucleus" abbreviation="SCH" url_base="u1" />
+		<part id="p12277" name="Suprachiasmatic nucleus ventrolateral part" abbreviation="SCHv" url_base="u1" />
+		<part id="p12278" name="Suprachiasmatic nucleus dorsomedial part" abbreviation="SCHd" url_base="u1" />
+		<part id="p12591" name="Ventrolateral preoptic nucleus" abbreviation="VLP" url_base="u1" />
+		<part id="p12170" name="Sensory system" abbreviation="SEN" url_base="u1" />
+		<part id="p12589" name="Sensory system, humerosensory" abbreviation="SENhum" url_base="u1" />
+		<part id="p12466" name="Area postrema" abbreviation="AP" url_base="u1" />
+		<part id="p12241" name="Subfornical organ" abbreviation="SFO" url_base="u1" />
+		<part id="p12329" name="Vascular organ of the lamina terminalis" abbreviation="OV" url_base="u1" />
+		<part id="p12588" name="Sensory system, visceral" abbreviation="SENvsc" url_base="u1" />
+		<part id="p12465" name="Parabrachial nucleus" abbreviation="PB" url_base="u1" />
+		<part id="p12455" name="Parabrachial nucleus medial division" abbreviation="PBm" url_base="u1" />
+		<part id="p12452" name="Parabrachial nucleus medial division ventral medial part" abbreviation="PBmv" url_base="u1" />
+		<part id="p12453" name="Parabrachial nucleus medial division external medial part" abbreviation="PBme" url_base="u1" />
+		<part id="p12454" name="Parabrachial nucleus medial division medial medial part" abbreviation="PBmm" url_base="u1" />
+		<part id="p12456" name="Kolliker-Fuse subnucleus" abbreviation="KF" url_base="u1" />
+		<part id="p12464" name="Parabrachial nucleus lateral division" abbreviation="PBl" url_base="u1" />
+		<part id="p12457" name="Parabrachial nucleus lateral division ventral lateral part" abbreviation="PBlv" url_base="u1" />
+		<part id="p12458" name="Parabrachial nucleus lateral division superior lateral part" abbreviation="PBls" url_base="u1" />
+		<part id="p12459" name="Parabrachial nucleus lateral division internal lateral part" abbreviation="PBli" url_base="u1" />
+		<part id="p12460" name="Parabrachial nucleus lateral division extreme lateral part" abbreviation="PBlex" url_base="u1" />
+		<part id="p12461" name="Parabrachial nucleus lateral division external lateral part" abbreviation="PBle" url_base="u1" />
+		<part id="p12462" name="Parabrachial nucleus lateral division dorsal lateral part" abbreviation="PBld" url_base="u1" />
+		<part id="p12463" name="Parabrachial nucleus lateral division central lateral part" abbreviation="PBlc" url_base="u1" />
+		<part id="p12474" name="Nucleus of the solitary tract" abbreviation="NTS" url_base="u1" />
+		<part id="p12467" name="Nucleus of the solitary tract medial part caudal zone" abbreviation="NTSmc" url_base="u1" />
+		<part id="p12470" name="Nucleus of the solitary tract lateral part" abbreviation="NTSl" url_base="u1" />
+		<part id="p12471" name="Nucleus of the solitary tract gelatinous part" abbreviation="NTSge" url_base="u1" />
+		<part id="p12472" name="Nucleus of the solitary tract commissural part" abbreviation="NTSco" url_base="u1" />
+		<part id="p12473" name="Nucleus of the solitary tract central part" abbreviation="NTSce" url_base="u1" />
+		<part id="p12587" name="Sensory system, Gustatory" abbreviation="SENgu" url_base="u1" />
+		<part id="p12468" name="Nucleus of the solitary tract rostral zone of medial part" abbreviation="NTSm" url_base="u1" />
+		<part id="p12583" name="Sensory system, Auditory" abbreviation="SENaud" url_base="u1" />
+		<part id="p12490" name="Nucleus sagulum" abbreviation="SAG" url_base="u1" />
+		<part id="p12491" name="Nucleus of the brachium of the inferior colliculus" abbreviation="NB" url_base="u1" />
+		<part id="p12495" name="Inferior colliculus" abbreviation="IC" url_base="u1" />
+		<part id="p12492" name="Inferior colliculus central nucleus" abbreviation="ICc" url_base="u1" />
+		<part id="p12493" name="Inferior colliculus dorsal nucleus" abbreviation="ICd" url_base="u1" />
+		<part id="p12494" name="Inferior colliculus external nucleus" abbreviation="ICe" url_base="u1" />
+		<part id="p12496" name="Nucleus of the lateral lemniscus" abbreviation="NLL" url_base="u1" />
+		<part id="p12586" name="Nucleus of the lateral lemniscus ventral part" abbreviation="NLLv" url_base="u1" />
+		<part id="p12585" name="Nucleus of the lateral lemniscus horizontal part" abbreviation="Nllh" url_base="u1" />
+		<part id="p12584" name="Nucleus of the lateral lemniscus dorsal part" abbreviation="NLLd" url_base="u1" />
+		<part id="p12500" name="Superior olivary complex" abbreviation="SOC" url_base="u1" />
+		<part id="p12497" name="Superior olivary complex periolivary region" abbreviation="POR" url_base="u1" />
+		<part id="p12498" name="Superior olivary complex lateral part" abbreviation="SOCl" url_base="u1" />
+		<part id="p12499" name="Superior olivary complex medial part" abbreviation="SOCm" url_base="u1" />
+		<part id="p12501" name="Nucleus of the trapezoid body" abbreviation="NTB" url_base="u1" />
+		<part id="p12509" name="Cochlear nuclei" abbreviation="CN" url_base="u1" />
+		<part id="p12502" name="Interstitial nucleus of the auditory nerve" abbreviation="IAN" url_base="u1" />
+		<part id="p12503" name="Granular lamina of the cochlear nuclei" abbreviation="CNlam" url_base="u1" />
+		<part id="p12504" name="Subpeduncular granular region of the cochlear nuclei" abbreviation="CNspg" url_base="u1" />
+		<part id="p12507" name="Ventral coclear nucleus" abbreviation="VCO" url_base="u1" />
+		<part id="p12505" name="Ventral coclear nucleus posterior part" abbreviation="VCOp" url_base="u1" />
+		<part id="p12506" name="Ventral coclear nucleus anterior part" abbreviation="VCOa" url_base="u1" />
+		<part id="p12508" name="Dorsal coclear nucleus" abbreviation="DCO" url_base="u1" />
+		<part id="p12550" name="Sensory System, Somatosensory" abbreviation="SENss" url_base="u1" />
+		<part id="p12475" name="Intermediate gray of the spinal cord, general" abbreviation="IHg" url_base="u1" />
+		<part id="p12363" name="Dorsal nucleus of the spinal cord, general" abbreviation="DSNg" url_base="u1" />
+		<part id="p12582" name="Dorsal nucleus of the spinal cord caudal part" abbreviation="DSNc" url_base="u1" />
+		<part id="p12581" name="Dorsal nucleus of the spinal cord rostral part" abbreviation="DSN" url_base="u1" />
+		<part id="p12489" name="Central cervical nucleus" abbreviation="CEC" url_base="u1" />
+		<part id="p12531" name="Intermediate gray of the spinal cord proper" abbreviation="IH" url_base="u1" />
+		<part id="p12563" name="Basal nucleus of the spinal cord, general" abbreviation="BNG" url_base="u1" />
+		<part id="p12510" name="Lateral spinal nucleus" abbreviation="LSN" url_base="u1" />
+		<part id="p12343" name="Lateral cervical nucleus" abbreviation="LCN" url_base="u1" />
+		<part id="p12565" name="Basal nucleus of the spinal cord" abbreviation="BN" url_base="u1" />
+		<part id="p12557" name="Reticular nucleus of the spinal cord" abbreviation="RS" url_base="u1" />
+		<part id="p12561" name="Nucleus proprius of the spinal cord" abbreviation="NP" url_base="u1" />
+		<part id="p12554" name="Substantia gelatinosa of the spinal cord" abbreviation="SGE" url_base="u1" />
+		<part id="p12442" name="Marginal zone of the spinal cord" abbreviation="MZ" url_base="u1" />
+		<part id="p12511" name="External cuneate nucleus" abbreviation="ECU" url_base="u1" />
+		<part id="p12512" name="Nucleus z" abbreviation="z" url_base="u1" />
+		<part id="p12517" name="Dorsal column nuclei" abbreviation="DCN" url_base="u1" />
+		<part id="p12513" name="Cuneate nucleus" abbreviation="CU" url_base="u1" />
+		<part id="p12658" name="Gracile nucleus, general" abbreviation="GRg" url_base="u1" />
+		<part id="p12515" name="Gracile nucleus median part" abbreviation="GRm" url_base="u1" />
+		<part id="p12516" name="Gracile nucleus, principal part" abbreviation="GR" url_base="u1" />
+		<part id="p12518" name="Paratrigeminal nucleus" abbreviation="PAT" url_base="u1" />
+		<part id="p12527" name="Spinal nucleus of the trigeminal" abbreviation="SPV" url_base="u1" />
+		<part id="p12519" name="Spinal nucleus of the trigeminal caudal part" abbreviation="SPVC" url_base="u1" />
+		<part id="p12520" name="Spinal nucleus of the trigeminal interpolar part" abbreviation="SPVI" url_base="u1" />
+		<part id="p12526" name="Spinal nucleus of the trigeminal oral part" abbreviation="SPVO" url_base="u1" />
+		<part id="p12521" name="Spinal nucleus of the trigeminal oral part caudal dorsomedial part" abbreviation="SPVOcdm" url_base="u1" />
+		<part id="p12522" name="Spinal nucleus of the trigeminal oral part middle dorsomedial part, ventral zone" abbreviation="SPVOmdmv" url_base="u1" />
+		<part id="p12523" name="Spinal nucleus of the trigeminal oral part middle dorsomedial part, dorsal zone" abbreviation="SPVOmdmd" url_base="u1" />
+		<part id="p12524" name="Spinal nucleus of the trigeminal oral part rostral dorsomedial part" abbreviation="SPVOrdm" url_base="u1" />
+		<part id="p12525" name="Spinal nucleus of the trigeminal oral part ventrolateral part" abbreviation="SPVOvl" url_base="u1" />
+		<part id="p12528" name="Principal sensory nucleus of the trigeminal" abbreviation="PSV" url_base="u1" />
+		<part id="p12529" name="Mesencephalic nucleus of the trigeminal" abbreviation="MEV" url_base="u1" />
+		<part id="p12438" name="Sensory System, Visual" abbreviation="SENvis" url_base="u1" />
+		<part id="p12351" name="Parageminal nucleus" abbreviation="PBG" url_base="u1" />
+		<part id="p12450" name="Superior colliculus, sensory related" abbreviation="SCs" url_base="u1" />
+		<part id="p12359" name="Superior colliculus optic layer" abbreviation="SCop" url_base="u1" />
+		<part id="p12360" name="Superior colliculus superficial gray layer" abbreviation="SCsg" url_base="u1" />
+		<part id="p12361" name="Superior colliculus zonal layer" abbreviation="SCzo" url_base="u1" />
+		<part id="p12221" name="Retina" abbreviation="R" url_base="u1" />
+		<part id="p12334" name="Retina, ganglion cell layer" abbreviation="Rgcl" url_base="u1" />
+		<part id="p12333" name="Retina, inner plexiform layer" abbreviation="Ripl" url_base="u1" />
+		<part id="p12332" name="Retina, inner nuclear layer" abbreviation="Rinl" url_base="u1" />
+		<part id="p12331" name="Retina, outer plexiform layer" abbreviation="Ropl" url_base="u1" />
+		<part id="p12330" name="Retina, outer nuclear layer" abbreviation="Ronl" url_base="u1" />
+		<part id="p12171" name="Thalamus" abbreviation="TH" url_base="u1" />
+		<part id="p12235" name="Reticular nucleus of the thalamus" abbreviation="RT" url_base="u1" />
+		<part id="p12451" name="Thalamus polymodal association cortex related" abbreviation="DORpm" url_base="u1" />
+		<part id="p12204" name="Intralaminar nuclei of the dorsal thalamus" abbreviation="ILM" url_base="u1" />
+		<part id="p12209" name="Parafascicular nucleus" abbreviation="PF" url_base="u1" />
+		<part id="p12208" name="Central lateral nucleus of the thalamus" abbreviation="CL" url_base="u1" />
+		<part id="p12207" name="Paracentral nucleus of the thalamus" abbreviation="PCN" url_base="u1" />
+		<part id="p12206" name="Central medial nucleus of the thalamus" abbreviation="CM" url_base="u1" />
+		<part id="p12205" name="Rhomboid nucleus" abbreviation="RH" url_base="u1" />
+		<part id="p12190" name="Midline group of the dorsal thalamus" abbreviation="MTN" url_base="u1" />
+		<part id="p12193" name="Nucleus reuniens" abbreviation="RE" url_base="u1" />
+		<part id="p12200" name="Nucleus reuniens caudal division" abbreviation="REC" url_base="u1" />
+		<part id="p12203" name="Nucleus reuniens caudal division median part" abbreviation="RECm" url_base="u1" />
+		<part id="p12202" name="Nucleus reuniens caudal division dorsal part" abbreviation="RECd" url_base="u1" />
+		<part id="p12201" name="Nucleus reuniens caudal division caudal part" abbreviation="RECc" url_base="u1" />
+		<part id="p12199" name="Nucleus reuniens rostral division median part" abbreviation="REm" url_base="u1" />
+		<part id="p12198" name="Nucleus reuniens rostral division lateral part" abbreviation="REl" url_base="u1" />
+		<part id="p12197" name="Nucleus reuniens rostral division ventral part" abbreviation="REv" url_base="u1" />
+		<part id="p12196" name="Nucleus reuniens rostral division dorsal part" abbreviation="REd" url_base="u1" />
+		<part id="p12342" name="Nucleus reuniens rostral division anterior part" abbreviation="REa" url_base="u1" />
+		<part id="p12580" name="Paratenial nucleus" abbreviation="PT" url_base="u1" />
+		<part id="p12191" name="Paraventricular nucleus of the thalamus" abbreviation="PVT" url_base="u1" />
+		<part id="p12182" name="Medial group of the dorsal thalamus" abbreviation="MED" url_base="u1" />
+		<part id="p12189" name="Perireunensis nucleus" abbreviation="PR" url_base="u1" />
+		<part id="p12188" name="Submedial nucleus of the thalamus" abbreviation="SMT" url_base="u1" />
+		<part id="p12183" name="Mediodorsal nucleus of the thalamus" abbreviation="MD" url_base="u1" />
+		<part id="p12187" name="Intermediodorsal nucleus of the thalamus" abbreviation="IMD" url_base="u1" />
+		<part id="p12186" name="Mediodorsal nucleus of the thalamus lateral part" abbreviation="MDl" url_base="u1" />
+		<part id="p12185" name="Mediodorsal nucleus of the thalamus central part" abbreviation="MDc" url_base="u1" />
+		<part id="p12184" name="Mediodorsal nucleus of the thalamus medial part" abbreviation="MDm" url_base="u1" />
+		<part id="p12173" name="Anterior group of the dorsal thalamus" abbreviation="ATN" url_base="u1" />
+		<part id="p12181" name="Lateral dorsal nucleus of thalamus" abbreviation="LD" url_base="u1" />
+		<part id="p12180" name="Interanterodorsal nucleus of the thalamus" abbreviation="IAD" url_base="u1" />
+		<part id="p12178" name="Anterodorsal nucleus of the thalamus" abbreviation="AD" url_base="u1" />
+		<part id="p12175" name="Anteromedial nucleus of thalamus" abbreviation="AM" url_base="u1" />
+		<part id="p12177" name="Anteromedial nucleus of thalamus ventral part" abbreviation="AMv" url_base="u1" />
+		<part id="p12176" name="Anteromedial nucleus of thalamus dorsal part" abbreviation="AMd" url_base="u1" />
+		<part id="p12174" name="Anteroventral nucleus of thalamus" abbreviation="AV" url_base="u1" />
+		<part id="p12210" name="Lateral group of the dorsal thalamus" abbreviation="LAT" url_base="u1" />
+		<part id="p12214" name="Posterior limiting nucleus of the thalamus" abbreviation="POL" url_base="u1" />
+		<part id="p12213" name="Suprageniculate nucleus" abbreviation="SGN" url_base="u1" />
+		<part id="p12212" name="Posterior complex of the thalamus" abbreviation="PO" url_base="u1" />
+		<part id="p12211" name="Lateral posterior nucleus of the thalamus" abbreviation="LP" url_base="u1" />
+		<part id="p12172" name="Thalamus sensory-motor cortex related" abbreviation="DORsm" url_base="u1" />
+		<part id="p12246" name="Geniculate group of the dorsal thalamus" abbreviation="GENd" url_base="u1" />
+		<part id="p12242" name="Lateral geniculate complex, dorsal part" abbreviation="LGd" url_base="u1" />
+		<part id="p12579" name="Medial geniculate complex" abbreviation="MG" url_base="u1" />
+		<part id="p12243" name="Medial geniculate complex medial part" abbreviation="MGm" url_base="u1" />
+		<part id="p12244" name="Medial geniculate complex ventral part" abbreviation="MGv" url_base="u1" />
+		<part id="p12245" name="Medial geniculate complex dorsal part" abbreviation="MGd" url_base="u1" />
+		<part id="p12215" name="Ventral group of the dorsal thalamus" abbreviation="VENT" url_base="u1" />
+		<part id="p12225" name="Peripeduncular nucleus" abbreviation="PP" url_base="u1" />
+		<part id="p12224" name="Subparafascicular nucleus" abbreviation="SPF" url_base="u1" />
+		<part id="p12222" name="Subparafascicular nucleus parvicellular part" abbreviation="SPFp" url_base="u1" />
+		<part id="p12578" name="Subparafascicular nucleus parvicellular part lateral division" abbreviation="SPFpl" url_base="u1" />
+		<part id="p12577" name="Subparafascicular nucleus parvicellular part medial division" abbreviation="SPFpm" url_base="u1" />
+		<part id="p12223" name="Subparafascicular nucleus magnocellular part" abbreviation="SPFm" url_base="u1" />
+		<part id="p12575" name="Ventral posterolateral nucleus of the thalamus, general" abbreviation="VPLg" url_base="u1" />
+		<part id="p12218" name="Ventral posterior complex of the thalamus" abbreviation="VP" url_base="u1" />
+		<part id="p12576" name="Ventral posteromedial nucleus of the thalamus, general" abbreviation="VPMg" url_base="u1" />
+		<part id="p12247" name="Ventral posteromedial nucleus of the thalamus parvicellular part" abbreviation="VPMpc" url_base="u1" />
+		<part id="p12248" name="Ventral posteromedial nucleus of the thalamus principal part" abbreviation="VPM" url_base="u1" />
+		<part id="p12217" name="Ventral medial nucleus of the thalamus" abbreviation="VM" url_base="u1" />
+		<part id="p12216" name="Ventral anterior-lateral complex of the thalamus" abbreviation="VAL" url_base="u1" />
+		<part id="p12168" name="Cerebellum" abbreviation="CB" url_base="u1" />
+		<part id="p12160" name="Cerebellar nuclei" abbreviation="CBN" url_base="u1" />
+		<part id="p12165" name="Dentate nucleus" abbreviation="DN" url_base="u1" />
+		<part id="p12166" name="Dentate nucleus parvicellular part" abbreviation="DNp" url_base="u1" />
+		<part id="p12167" name="Dentate nucleus magnocellular part" abbreviation="DNm" url_base="u1" />
+		<part id="p12162" name="Interposed nucleus" abbreviation="IP" url_base="u1" />
+		<part id="p12163" name="Interposed nucleus parvicellular part" abbreviation="IPp" url_base="u1" />
+		<part id="p12164" name="Interposed nucleus main part" abbreviation="IPm" url_base="u1" />
+		<part id="p12161" name="Fastigial nucleus" abbreviation="FN" url_base="u1" />
+		<part id="p12113" name="Cerebellar cortex" abbreviation="CBX" url_base="u1" />
+		<part id="p12141" name="Hemispheric regions" abbreviation="HEM" url_base="u1" />
+		<part id="p12159" name="Flocculus" abbreviation="FL" url_base="u1" />
+		<part id="p12158" name="Paraflocculus" abbreviation="PFL" url_base="u1" />
+		<part id="p12155" name="Copula pyramidis" abbreviation="COPY" url_base="u1" />
+		<part id="p12157" name="Copula pyramidis sublobule b" abbreviation="COPYb" url_base="u1" />
+		<part id="p12156" name="Copula pyramidis sublobule a" abbreviation="COPYa" url_base="u1" />
+		<part id="p12154" name="Paramedian lobule" abbreviation="PRM" url_base="u1" />
+		<part id="p12145" name="Ansiform lobule" abbreviation="AN" url_base="u1" />
+		<part id="p12151" name="Ansiform lobule crus 2" abbreviation="ANcr2" url_base="u1" />
+		<part id="p12153" name="Ansiform lobule crus 2 sublobule b" abbreviation="ANcr2-b" url_base="u1" />
+		<part id="p12152" name="Ansiform lobule crus 2 sublobule a" abbreviation="ANcr2-a" url_base="u1" />
+		<part id="p12146" name="Ansiform lobule crus 1" abbreviation="ANcr1" url_base="u1" />
+		<part id="p12150" name="Ansiform lobule crus 1 sublobule d" abbreviation="ANcr1-d" url_base="u1" />
+		<part id="p12149" name="Ansiform lobule crus 1 sublobule c" abbreviation="ANcr1-c" url_base="u1" />
+		<part id="p12148" name="Ansiform lobule crus 1 sublobule b" abbreviation="ANcr1-b" url_base="u1" />
+		<part id="p12147" name="Ansiform lobule crus 1 sublobule a" abbreviation="ANcr1-a" url_base="u1" />
+		<part id="p12142" name="Simple lobule" abbreviation="SIM" url_base="u1" />
+		<part id="p12144" name="Simple lobule sublobule b" abbreviation="SIMb" url_base="u1" />
+		<part id="p12143" name="Simple lobule sublobule a" abbreviation="SIMa" url_base="u1" />
+		<part id="p12114" name="Vermal regions" abbreviation="VERM" url_base="u1" />
+		<part id="p12138" name="Nodulus (X)" abbreviation="NOD" url_base="u1" />
+		<part id="p12140" name="Nodulus sublobule b" abbreviation="NODb" url_base="u1" />
+		<part id="p12139" name="Nodulus sublobule a" abbreviation="NODa" url_base="u1" />
+		<part id="p12135" name="Uvula (IX)" abbreviation="UVU" url_base="u1" />
+		<part id="p12137" name="Uvula (IX) sublobule c" abbreviation="UVUc" url_base="u1" />
+		<part id="p12136" name="Uvula (IX) sublobule ab" abbreviation="UVUab" url_base="u1" />
+		<part id="p12132" name="Pyramus" abbreviation="PYR" url_base="u1" />
+		<part id="p12134" name="Pyramus sublobule b" abbreviation="PYRb" url_base="u1" />
+		<part id="p12133" name="Pyramus sublobule a" abbreviation="PYRa" url_base="u1" />
+		<part id="p12131" name="Folium-tuber vermis (VII)" abbreviation="FOTU" url_base="u1" />
+		<part id="p12126" name="Declive (VI)" abbreviation="DEC" url_base="u1" />
+		<part id="p12130" name="Declive, sublobule d" abbreviation="DEC-d" url_base="u1" />
+		<part id="p12129" name="Declive, sublobule c" abbreviation="DEC-c" url_base="u1" />
+		<part id="p12128" name="Declive, sublobule b" abbreviation="DEC-b" url_base="u1" />
+		<part id="p12127" name="Declive, sublobule a" abbreviation="DEC-a" url_base="u1" />
+		<part id="p12123" name="Culmen" abbreviation="CUL" url_base="u1" />
+		<part id="p12125" name="Culmen lobule V" abbreviation="CUL5" url_base="u1" />
+		<part id="p12124" name="Culmen lobule IV" abbreviation="CUL4" url_base="u1" />
+		<part id="p12116" name="Central lobule" abbreviation="CENT" url_base="u1" />
+		<part id="p12120" name="Central lobule, lobule III" abbreviation="CENT3" url_base="u1" />
+		<part id="p12122" name="Central lobule, lobule III sublobule b" abbreviation="CENT3b" url_base="u1" />
+		<part id="p12121" name="Central lobule, lobule III sublobule a" abbreviation="CENT3a" url_base="u1" />
+		<part id="p12117" name="Central lobule, lobule II" abbreviation="CENT2" url_base="u1" />
+		<part id="p12119" name="Central lobule, lobule II sublobule b" abbreviation="CENT2b" url_base="u1" />
+		<part id="p12118" name="Central lobule, lobule II sublobule a" abbreviation="CENT2a" url_base="u1" />
+		<part id="p12115" name="Lingula (l)" abbreviation="LING" url_base="u1" />
+		<part id="p11814" name="Cerebrum" abbreviation="CH" url_base="u1" />
+		<part id="p12109" name="Cerebral nuclei" abbreviation="CNU" url_base="u1" />
+		<part id="p11861" name="Pallidum" abbreviation="PAL" url_base="u1" />
+		<part id="p12112" name="Bed nucleus of the stria medullaris" abbreviation="BSM" url_base="u1" />
+		<part id="p11859" name="Bed nucleus of the anterior commissure" abbreviation="BAC" url_base="u1" />
+		<part id="p11840" name="Bed nuclei of the stria terminalis" abbreviation="BST" url_base="u1" />
+		<part id="p11852" name="Bed nuclei of the stria terminalis posterior division" abbreviation="BSTp" url_base="u1" />
+		<part id="p11858" name="Bed nuclei of the stria terminalis cell-sparse zone" abbreviation="BSTsz" url_base="u1" />
+		<part id="p11857" name="Bed nuclei of the stria terminalis strial extension" abbreviation="BSTse" url_base="u1" />
+		<part id="p12111" name="Bed nuclei of the stria terminalis dorsal nucleus" abbreviation="BSTd" url_base="u1" />
+		<part id="p11856" name="Bed nuclei of the stria terminalis premedullary nucleus" abbreviation="BSTpm" url_base="u1" />
+		<part id="p11855" name="Bed nuclei of the stria terminalis transverse nucleus" abbreviation="BSTtr" url_base="u1" />
+		<part id="p11854" name="Bed nuclei of the stria terminalis interfascicular  nucleus" abbreviation="BSTif" url_base="u1" />
+		<part id="p11853" name="Bed nuclei of the stria terminalis posterior nucleus" abbreviation="BSTpr" url_base="u1" />
+		<part id="p11841" name="Bed nuclei of the stria terminalis anterior division" abbreviation="BSTa" url_base="u1" />
+		<part id="p11851" name="Bed nuclei of the stria terminalis magnocellular nucleus" abbreviation="BSTmg" url_base="u1" />
+		<part id="p11850" name="Bed nuclei of the stria terminalis ventral nucleus" abbreviation="BSTv" url_base="u1" />
+		<part id="p11849" name="Bed nuclei of the stria terminalis fusiform nucleus" abbreviation="BSTfu" url_base="u1" />
+		<part id="p11847" name="Bed nuclei of the stria terminalis dorsomedial nucleus" abbreviation="BSTdm" url_base="u1" />
+		<part id="p11846" name="Bed nuclei of the stria terminalis rhomboid nucleus" abbreviation="BSTrh" url_base="u1" />
+		<part id="p11845" name="Bed nuclei of the stria terminalis juxtacapsular nucleus" abbreviation="BSTju" url_base="u1" />
+		<part id="p11844" name="Bed nuclei of the stria terminalis oval nucleus" abbreviation="BSTov" url_base="u1" />
+		<part id="p11843" name="Bed nuclei of the stria terminalis anteromedial area" abbreviation="BSTam" url_base="u1" />
+		<part id="p12094" name="Bed nuclei of the stria terminalis anterolateral area" abbreviation="BSTal" url_base="u1" />
+		<part id="p11869" name="Triangular nucleus of the septum" abbreviation="TRS" url_base="u1" />
+		<part id="p11872" name="Medial septal complex" abbreviation="MSC" url_base="u1" />
+		<part id="p11870" name="Nucleus of the diagonal band" abbreviation="NDB" url_base="u1" />
+		<part id="p11871" name="Medial septal nucleus" abbreviation="MS" url_base="u1" />
+		<part id="p11873" name="Magnocellular preoptic nucleus" abbreviation="MA" url_base="u1" />
+		<part id="p11874" name="Substantia innominata" abbreviation="SI" url_base="u1" />
+		<part id="p12110" name="Globus pallidus" abbreviation="GP" url_base="u1" />
+		<part id="p11876" name="Globus pallidus internal segment" abbreviation="GPi" url_base="u1" />
+		<part id="p11877" name="Globus pallidus external segment" abbreviation="GPe" url_base="u1" />
+		<part id="p11838" name="Striatum" abbreviation="STR" url_base="u1" />
+		<part id="p11926" name="Intercalated nuclei of the amygdala" abbreviation="IA" url_base="u1" />
+		<part id="p11935" name="Medial nucleus of the amygdala" abbreviation="MEA" url_base="u1" />
+		<part id="p11927" name="Bed nucleus of the accessory olfactory part" abbreviation="BA" url_base="u1" />
+		<part id="p11928" name="Medial nucleus of the amygdala posteroventral part" abbreviation="MEApv" url_base="u1" />
+		<part id="p11932" name="Medial nucleus of the amygdala posterodorsal part" abbreviation="MEApd" url_base="u1" />
+		<part id="p11929" name="Medial nucleus of the amygdala posterodorsal part,sublayer c" abbreviation="MEApd-c" url_base="u1" />
+		<part id="p11930" name="Medial nucleus of the amygdala posterodorsal part,sublayer b" abbreviation="MEApd-b" url_base="u1" />
+		<part id="p11931" name="Medial nucleus of the amygdala posterodorsal part,sublayer a" abbreviation="MEApd-a" url_base="u1" />
+		<part id="p11933" name="Medial nucleus of the amygdala anteroventral part" abbreviation="MEAav" url_base="u1" />
+		<part id="p11934" name="Medial nucleus of the amygdala anterodorsal part" abbreviation="MEAad" url_base="u1" />
+		<part id="p11939" name="Central nucleus of amygdala" abbreviation="CEA" url_base="u1" />
+		<part id="p11936" name="Central nucleus of amygdala capsular part" abbreviation="CEAc" url_base="u1" />
+		<part id="p11937" name="Central nucleus of amygdala lateral part" abbreviation="CEAl" url_base="u1" />
+		<part id="p11938" name="Central nucleus of amygdala medial part" abbreviation="CEAm" url_base="u1" />
+		<part id="p11940" name="Anterior amygdaloid area" abbreviation="AAA" url_base="u1" />
+		<part id="p11916" name="Lateral septal complex" abbreviation="LSX" url_base="u1" />
+		<part id="p11880" name="Septohippocampal nucleus" abbreviation="SH" url_base="u1" />
+		<part id="p11881" name="Septofimbrial nucleus" abbreviation="SF" url_base="u1" />
+		<part id="p11915" name="Lateral septal nucleus" abbreviation="LS" url_base="u1" />
+		<part id="p11882" name="Lateral septal nucleus ventral part" abbreviation="LSv" url_base="u1" />
+		<part id="p11900" name="Lateral septal nucleus rostral (rostroventral) part" abbreviation="LSr" url_base="u1" />
+		<part id="p11889" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone" abbreviation="LSr.dl" url_base="u1" />
+		<part id="p11885" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone lateral region" abbreviation="LSr.dl.l" url_base="u1" />
+		<part id="p11883" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone lateral region ventral domain" abbreviation="LSr.dl.l.v" url_base="u1" />
+		<part id="p11884" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone lateral region dorsal domain" abbreviation="LSr.dl.l.d" url_base="u1" />
+		<part id="p11888" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone medial region" abbreviation="LSr.dl.m" url_base="u1" />
+		<part id="p11886" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone medial region ventral domain" abbreviation="LSr.dl.m.v" url_base="u1" />
+		<part id="p11887" name="Lateral septal nucleus rostral (rostroventral) part dorsolateral zone medial region dorsal domain" abbreviation="LSr.dl.m.d" url_base="u1" />
+		<part id="p11894" name="Lateral septal nucleus rostral (rostroventral) part ventrolateral zone" abbreviation="LSr.vl" url_base="u1" />
+		<part id="p11890" name="Lateral septal nucleus rostral (rostroventral) part ventrolateral zone ventral region" abbreviation="LSr.vl.v" url_base="u1" />
+		<part id="p11893" name="Lateral septal nucleus rostral (rostroventral) part ventrolateral zone dorsal region" abbreviation="LSr.vl.d" url_base="u1" />
+		<part id="p11891" name="Lateral septal nucleus rostral (rostroventral) part ventrolateral zone dorsal region lateral domain" abbreviation="LSr.vl.d.l" url_base="u1" />
+		<part id="p11892" name="Lateral septal nucleus rostral (rostroventral) part ventrolateral zone dorsal region medial domain" abbreviation="LSr.vl.d.m" url_base="u1" />
+		<part id="p11899" name="Lateral septal nucleus rostral (rostroventral) part medial zone" abbreviation="LSr.m" url_base="u1" />
+		<part id="p11897" name="Lateral septal nucleus rostral (rostroventral) part medial zone ventral region" abbreviation="LSr.m.v" url_base="u1" />
+		<part id="p11895" name="Lateral septal nucleus rostral (rostroventral) part medial zone ventral region caudal domain" abbreviation="LSr.m.v.c" url_base="u1" />
+		<part id="p11896" name="Lateral septal nucleus rostral (rostroventral) part medial zone ventral region rostral domain" abbreviation="LSr.m.v.r" url_base="u1" />
+		<part id="p11898" name="Lateral septal nucleus rostral (rostroventral) part medial zone dorsal region" abbreviation="LSr.m.d" url_base="u1" />
+		<part id="p11914" name="Lateral septal nucleus caudal (caudodorsal) part" abbreviation="LSc" url_base="u1" />
+		<part id="p11908" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone" abbreviation="LSc.v" url_base="u1" />
+		<part id="p11903" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone lateral region" abbreviation="LSc.v.l" url_base="u1" />
+		<part id="p11901" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone lateral region ventral domain" abbreviation="LSc.v.l.v" url_base="u1" />
+		<part id="p11902" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone lateral region dorsal domain" abbreviation="LSc.v.l.d" url_base="u1" />
+		<part id="p11904" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone intermediate region" abbreviation="LSc.v.i" url_base="u1" />
+		<part id="p11907" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone medial region" abbreviation="LSc.v.m" url_base="u1" />
+		<part id="p11905" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone medial region ventral domain" abbreviation="LSc.v.m.v" url_base="u1" />
+		<part id="p11906" name="Lateral septal nucleus caudal (caudodorsal) part ventral zone medial region dorsal domain" abbreviation="LSc.v.m.d" url_base="u1" />
+		<part id="p11913" name="Lateral septal nucleus caudal (caudodorsal) part dorsal zone" abbreviation="LSc.d" url_base="u1" />
+		<part id="p11909" name="Lateral septal nucleus caudal (caudodorsal) part dorsal zone ventral region" abbreviation="LSc.d.v" url_base="u1" />
+		<part id="p11910" name="Lateral septal nucleus caudal (caudodorsal) part dorsal zone lateral region" abbreviation="LSc.d.l" url_base="u1" />
+		<part id="p11911" name="Lateral septal nucleus caudal (caudodorsal) part dorsal zone dorsal region" abbreviation="LSc.d.d" url_base="u1" />
+		<part id="p11912" name="Lateral septal nucleus caudal (caudodorsal) part dorsal zone rostral region" abbreviation="LSc.d.r" url_base="u1" />
+		<part id="p11924" name="Olfactory tubercle" abbreviation="OT" url_base="u1" />
+		<part id="p11918" name="Major island of Calleja" abbreviation="islm" url_base="u1" />
+		<part id="p11919" name="Islands of Calleja" abbreviation="isl" url_base="u1" />
+		<part id="p11920" name="Olfactory tubercle polymorph layer" abbreviation="OT3" url_base="u1" />
+		<part id="p11921" name="Olfactory tubercle pyramidal layer" abbreviation="OT2" url_base="u1" />
+		<part id="p11923" name="Olfactory tubercle molecular layer" abbreviation="OT1" url_base="u1" />
+		<part id="p11925" name="Striatal fundus" abbreviation="FS" url_base="u1" />
+		<part id="p11865" name="Nucleus accumbens" abbreviation="ACB" url_base="u1" />
+		<part id="p11863" name="Caudoputamen" abbreviation="CP" url_base="u1" />
+		<part id="p11812" name="Cerebral cortex" abbreviation="CTX" url_base="u1" />
+		<part id="p12108" name="Cortical subplate" abbreviation="CTXsp" url_base="u1" />
+		<part id="p11981" name="Nucleus of the lateral olfactory tract dorsal cap" abbreviation="NLOT3" url_base="u1" />
+		<part id="p12093" name="Posterior nucleus of the amygdala" abbreviation="PA" url_base="u1" />
+		<part id="p12090" name="Basomedial nucleus of the amygdala" abbreviation="BMA" url_base="u1" />
+		<part id="p12092" name="Basomedial nucleus of the amygdala posterior part" abbreviation="BMAp" url_base="u1" />
+		<part id="p12091" name="Basomedial nucleus of the amygdala anterior part" abbreviation="BMAa" url_base="u1" />
+		<part id="p12087" name="Basolateral nucleus of the amygdala" abbreviation="BLA" url_base="u1" />
+		<part id="p12089" name="Basolateral nucleus of the amygdala posterior part" abbreviation="BLAp" url_base="u1" />
+		<part id="p12088" name="Basolateral nucleus of the amygdala anterior part" abbreviation="BLAa" url_base="u1" />
+		<part id="p12086" name="Lateral nucleus of the amygdala" abbreviation="LA" url_base="u1" />
+		<part id="p12083" name="Endopiriform nucleus" abbreviation="EP" url_base="u1" />
+		<part id="p12085" name="Endopiriform nucleus ventral part" abbreviation="EPv" url_base="u1" />
+		<part id="p12084" name="Endopiriform nucleus dorsal part" abbreviation="EPd" url_base="u1" />
+		<part id="p12082" name="Claustrum" abbreviation="CLA" url_base="u1" />
+		<part id="p12081" name="Layer 6b, isocortex" abbreviation="6b" url_base="u1" />
+		<part id="p11813" name="Cortical plate" abbreviation="CTXpl" url_base="u1" />
+		<part id="p12106" name="Polymodal association cortex" abbreviation="CTXpm" url_base="u1" />
+		<part id="p11824" name="Hippocampal formation" abbreviation="HPF" url_base="u1" />
+		<part id="p12030" name="Hippocampal region" abbreviation="HIP" url_base="u1" />
+		<part id="p12063" name="Fasciola cinerea" abbreviation="FC" url_base="u1" />
+		<part id="p12062" name="Indusium griseum" abbreviation="IG" url_base="u1" />
+		<part id="p12049" name="Dentate gyrus" abbreviation="DG" url_base="u1" />
+		<part id="p12058" name="Dentate gyrus medial blade" abbreviation="DGmb" url_base="u1" />
+		<part id="p12061" name="Dentate gyrus medial blade polymorph layer" abbreviation="DGmb-po" url_base="u1" />
+		<part id="p12060" name="Dentate gyrus medial blade granule cell layer" abbreviation="DGmb-sg" url_base="u1" />
+		<part id="p12059" name="Dentate gyrus medial blade molecular layer" abbreviation="DGmb-mo" url_base="u1" />
+		<part id="p12054" name="Dentate gyrus lateral blade" abbreviation="DGlb" url_base="u1" />
+		<part id="p12057" name="Dentate gyrus lateral blade polymorph layer" abbreviation="DGlb-po" url_base="u1" />
+		<part id="p12056" name="Dentate gyrus lateral blade granule cell layer" abbreviation="DGlb-sg" url_base="u1" />
+		<part id="p12055" name="Dentate gyrus lateral blade molecular layer" abbreviation="DGlb-mo" url_base="u1" />
+		<part id="p12050" name="Dentate gyrus crest" abbreviation="DGcr" url_base="u1" />
+		<part id="p12053" name="Dentate gyrus crest polymorph  layer" abbreviation="DGcr-po" url_base="u1" />
+		<part id="p12052" name="Dentate gyrus crest granule cell  layer" abbreviation="DGcr-sg" url_base="u1" />
+		<part id="p12051" name="Dentate gyrus crest molecular layer" abbreviation="DGcr-mo" url_base="u1" />
+		<part id="p12031" name="Ammon Horn" abbreviation="CA" url_base="u1" />
+		<part id="p12044" name="Field CA3" abbreviation="CA3" url_base="u1" />
+		<part id="p12047" name="Field CA3 stratum oriens" abbreviation="CA3so" url_base="u1" />
+		<part id="p12048" name="Field CA3 pyramidal layer" abbreviation="CA3sp" url_base="u1" />
+		<part id="p12046" name="Field CA3 stratum lucidum" abbreviation="CA3slu" url_base="u1" />
+		<part id="p12098" name="Field CA3 stratum radiatum" abbreviation="CA3sr" url_base="u1" />
+		<part id="p12045" name="Field CA3 stratum lacunosum-moleculare" abbreviation="CA3slm" url_base="u1" />
+		<part id="p12039" name="Field CA2" abbreviation="CA2" url_base="u1" />
+		<part id="p12043" name="Field CA2 stratum oriens" abbreviation="CA2so" url_base="u1" />
+		<part id="p12042" name="Field CA2 pyramidal layer" abbreviation="CA2sp" url_base="u1" />
+		<part id="p12041" name="Field CA2 stratum radiatum" abbreviation="CA2sr" url_base="u1" />
+		<part id="p12040" name="Field CA2 stratum lacunosum-moleculare" abbreviation="CA2slm" url_base="u1" />
+		<part id="p12032" name="Field CA1" abbreviation="CA1" url_base="u1" />
+		<part id="p12038" name="Field CA1 stratum oriens" abbreviation="CA1so" url_base="u1" />
+		<part id="p12035" name="Field CA1 pyramidal layer" abbreviation="CA1sp" url_base="u1" />
+		<part id="p12037" name="Field CA1 pyramidal layer, superficial" abbreviation="CA1sps" url_base="u1" />
+		<part id="p12036" name="Field CA1 pyramidal layer, deep" abbreviation="CA1spd" url_base="u1" />
+		<part id="p12034" name="Field CA1 stratum radiatum" abbreviation="CA1sr" url_base="u1" />
+		<part id="p12033" name="Field CA1 stratum lacunosum-moleculare" abbreviation="CA1slm" url_base="u1" />
+		<part id="p11825" name="Retrohippocampal region" abbreviation="RHP" url_base="u1" />
+		<part id="p12021" name="Subiculum" abbreviation="SUB" url_base="u1" />
+		<part id="p12026" name="Subiculum ventral part" abbreviation="SUBv" url_base="u1" />
+		<part id="p12029" name="Subiculum ventral part pyramidal layer" abbreviation="SUBv-sp" url_base="u1" />
+		<part id="p12028" name="Subiculum ventral part stratum radiatum" abbreviation="SUBv-sr" url_base="u1" />
+		<part id="p12027" name="Subiculum ventral part molecular layer" abbreviation="SUBv-m" url_base="u1" />
+		<part id="p12022" name="Subiculum dorsal part" abbreviation="SUBd" url_base="u1" />
+		<part id="p12025" name="Subiculum dorsal part pyramidal layer" abbreviation="SUBd-sp" url_base="u1" />
+		<part id="p12024" name="Subiculum dorsal part stratum radiatum" abbreviation="SUBd-sr" url_base="u1" />
+		<part id="p12023" name="Subiculum dorsal part molecular layer" abbreviation="SUBd-m" url_base="u1" />
+		<part id="p11834" name="Parasubiculum" abbreviation="PAR" url_base="u1" />
+		<part id="p12020" name="Parasubiculum layer 6" abbreviation="PAR6" url_base="u1" />
+		<part id="p12019" name="Parasubiculum layer 5" abbreviation="PAR5" url_base="u1" />
+		<part id="p12018" name="Parasubiculum layer 4" abbreviation="PAR4" url_base="u1" />
+		<part id="p12017" name="Parasubiculum layer 3" abbreviation="PAR3" url_base="u1" />
+		<part id="p12016" name="Parasubiculum layer 2" abbreviation="PAR2" url_base="u1" />
+		<part id="p12015" name="Parasubiculum layer 1" abbreviation="PAR1" url_base="u1" />
+		<part id="p11835" name="Postsubiculum" abbreviation="POST" url_base="u1" />
+		<part id="p11836" name="Postsubiculum layers 1-6" abbreviation="POST1-6" url_base="u1" />
+		<part id="p11832" name="Presubiculum" abbreviation="PRE" url_base="u1" />
+		<part id="p11833" name="Presubiculum, layers 1-6" abbreviation="PRE1-6" url_base="u1" />
+		<part id="p11826" name="Entorhinal area" abbreviation="ENT" url_base="u1" />
+		<part id="p11831" name="Entorhinal area medial part, ventral zone" abbreviation="ENTmv" url_base="u1" />
+		<part id="p11829" name="Entorhinal area medial part, dorsal zone" abbreviation="ENTm" url_base="u1" />
+		<part id="p11830" name="Entorhinal area medial part, dorsal zone layers 1-6" abbreviation="ENTm1-6" url_base="u1" />
+		<part id="p11827" name="Entorhinal area, lateral part" abbreviation="ENTl" url_base="u1" />
+		<part id="p11828" name="Entorhinal area, lateral part layers 1-6" abbreviation="ENTl1-6" url_base="u1" />
+		<part id="p12107" name="Perihinal area" abbreviation="PERI" url_base="u1" />
+		<part id="p12014" name="Ectorhinal area" abbreviation="ECT" url_base="u1" />
+		<part id="p12079" name="Temporal association areas" abbreviation="TEa" url_base="u1" />
+		<part id="p12071" name="Posterior parietal association areas" abbreviation="PTLp" url_base="u1" />
+		<part id="p12073" name="Retrosplenial area" abbreviation="RSP" url_base="u1" />
+		<part id="p12076" name="Retrosplenial area ventral part" abbreviation="RSPv" url_base="u1" />
+		<part id="p12078" name="Retrosplenial area ventral part zone b/c" abbreviation="RSPv.b/c" url_base="u1" />
+		<part id="p12077" name="Retrosplenial area ventral part zone a" abbreviation="RSPv.a" url_base="u1" />
+		<part id="p12075" name="Retrosplenial area lateral agranular part" abbreviation="RSPagl" url_base="u1" />
+		<part id="p12074" name="Retrosplenial area dorsal part" abbreviation="RSPd" url_base="u1" />
+		<part id="p12007" name="Agranular insular area" abbreviation="AI" url_base="u1" />
+		<part id="p12010" name="Agranular insular area posterior part" abbreviation="AIp" url_base="u1" />
+		<part id="p12009" name="Agranular insular area ventral part" abbreviation="AIv" url_base="u1" />
+		<part id="p12008" name="Agranular insular area dorsal part" abbreviation="AId" url_base="u1" />
+		<part id="p12065" name="Orbital area" abbreviation="ORB" url_base="u1" />
+		<part id="p12069" name="Orbital area ventrolateral part" abbreviation="ORBvl" url_base="u1" />
+		<part id="p12068" name="Orbital area ventral part" abbreviation="ORBv" url_base="u1" />
+		<part id="p12067" name="Orbital area medial part" abbreviation="ORBm" url_base="u1" />
+		<part id="p12066" name="Orbital area lateral part" abbreviation="ORBl" url_base="u1" />
+		<part id="p12072" name="Prelimbic area" abbreviation="PL" url_base="u1" />
+		<part id="p12011" name="Anterior cingulate area" abbreviation="ACA" url_base="u1" />
+		<part id="p12013" name="Anterior cingulate area ventral part" abbreviation="ACAv" url_base="u1" />
+		<part id="p12012" name="Anterior cingulate area dorsal part" abbreviation="ACAd" url_base="u1" />
+		<part id="p12099" name="Sensory-motor cortex" abbreviation="CTXsm" url_base="u1" />
+		<part id="p11997" name="Visual areas" abbreviation="VIS" url_base="u1" />
+		<part id="p12105" name="Rostrolateral visual area" abbreviation="VISrl" url_base="u1" />
+		<part id="p12005" name="Primary visual area" abbreviation="VISp" url_base="u1" />
+		<part id="p12004" name="Posterolateral visual area" abbreviation="VISpl" url_base="u1" />
+		<part id="p12003" name="Mediolateral visual area" abbreviation="VISlm" url_base="u1" />
+		<part id="p12002" name="Laterolateral visual area" abbreviation="VISll" url_base="u1" />
+		<part id="p12001" name="Intermediolateral visual area" abbreviation="VISli" url_base="u1" />
+		<part id="p12000" name="Anteromedial visual area" abbreviation="VISam" url_base="u1" />
+		<part id="p11999" name="Anterolateral visual area" abbreviation="VISal" url_base="u1" />
+		<part id="p11998" name="Anterior laterolateral visual area" abbreviation="VISlla" url_base="u1" />
+		<part id="p11868" name="Auditory areas" abbreviation="AUD" url_base="u1" />
+		<part id="p12104" name="Posterior auditory area" abbreviation="AUDpo" url_base="u1" />
+		<part id="p11944" name="Ventral auditory areas" abbreviation="AUDv" url_base="u1" />
+		<part id="p11943" name="Dorsal auditory areas" abbreviation="AUDd" url_base="u1" />
+		<part id="p12103" name="Primary auditory area" abbreviation="AUDp" url_base="u1" />
+		<part id="p12102" name="Olfactory areas" abbreviation="OLF" url_base="u1" />
+		<part id="p11982" name="Cortical amygdalar area" abbreviation="COA" url_base="u1" />
+		<part id="p11984" name="Cortical amygdalar area posterior part" abbreviation="COAp" url_base="u1" />
+		<part id="p11986" name="Cortical amygdalar area posterior part medial zone" abbreviation="COApm" url_base="u1" />
+		<part id="p11985" name="Cortical amygdalar area posterior part lateral zone" abbreviation="COApl" url_base="u1" />
+		<part id="p11983" name="Cortical amygdalar area anterior part" abbreviation="COAa" url_base="u1" />
+		<part id="p11978" name="Nucleus of the lateral olfactory tract" abbreviation="NLOT" url_base="u1" />
+		<part id="p11980" name="Nucleus of the lateral olfactory tract pyramidal layer" abbreviation="NLOT2" url_base="u1" />
+		<part id="p11979" name="Nucleus of the lateral olfactory tract molecular layer" abbreviation="NLOT1" url_base="u1" />
+		<part id="p11977" name="Piriform-amygdalar area" abbreviation="PAA" url_base="u1" />
+		<part id="p11976" name="Postpiriform transition area" abbreviation="TR" url_base="u1" />
+		<part id="p11972" name="Piriform area" abbreviation="PIR" url_base="u1" />
+		<part id="p11975" name="Piriform area polymorph layer" abbreviation="PIR3" url_base="u1" />
+		<part id="p11974" name="Piriform area pyramidal layer" abbreviation="PIR2" url_base="u1" />
+		<part id="p11973" name="Piriform area molecular layer" abbreviation="PIR1" url_base="u1" />
+		<part id="p11962" name="Tenia tecta" abbreviation="TT" url_base="u1" />
+		<part id="p11968" name="Tenia tecta ventral part" abbreviation="TTv" url_base="u1" />
+		<part id="p11971" name="Tenia tecta ventral part layer3" abbreviation="TTv3" url_base="u1" />
+		<part id="p11970" name="Tenia tecta ventral part layer2" abbreviation="TTv2" url_base="u1" />
+		<part id="p11969" name="Tenia tecta ventral part layer1" abbreviation="TTv1" url_base="u1" />
+		<part id="p11963" name="Tenia tecta dorsal part" abbreviation="TTd" url_base="u1" />
+		<part id="p11967" name="Tenia tecta dorsal part layer 4" abbreviation="TTd4" url_base="u1" />
+		<part id="p11966" name="Tenia tecta dorsal part layer 3" abbreviation="TTd3" url_base="u1" />
+		<part id="p11965" name="Taenia tecta dorsal part layer 2" abbreviation="TTd2" url_base="u1" />
+		<part id="p11964" name="Tenia tecta dorsal part layer 1" abbreviation="TTd1" url_base="u1" />
+		<part id="p11946" name="Anterior olfactory nucleus" abbreviation="AON" url_base="u1" />
+		<part id="p11959" name="Anterior olfactory nucleus posteroventral part" abbreviation="AONpv" url_base="u1" />
+		<part id="p11961" name="Anterior olfactory nucleus posteroventral part pyramidal layer" abbreviation="AONpv2" url_base="u1" />
+		<part id="p11960" name="Anterior olfactory nucleus posteroventral part molecular layer" abbreviation="AONpv1" url_base="u1" />
+		<part id="p11956" name="Anterior olfactory nucleus medial part" abbreviation="AONm" url_base="u1" />
+		<part id="p11958" name="Anterior olfactory nucleus medial part pyramidal layer" abbreviation="AONm2" url_base="u1" />
+		<part id="p11953" name="Anterior olfactory nucleus lateral part" abbreviation="AONl" url_base="u1" />
+		<part id="p11955" name="Anterior olfactory nucleus lateral part pyramidal layer" abbreviation="AONl2" url_base="u1" />
+		<part id="p11954" name="Anterior olfactory nucleus lateral part molecular layer" abbreviation="AONl1" url_base="u1" />
+		<part id="p11950" name="Anterior olfactory nucleus external part" abbreviation="AONe" url_base="u1" />
+		<part id="p11952" name="Anterior olfactory nucleus external part pyramidal layer" abbreviation="AONe2" url_base="u1" />
+		<part id="p11951" name="Anterior olfactory nucleus external part molecular layer" abbreviation="AONe1" url_base="u1" />
+		<part id="p11947" name="Anterior olfactory nucleus dorsal part" abbreviation="AONd" url_base="u1" />
+		<part id="p11949" name="Anterior olfactory nucleus dorsal part pyramidal layer" abbreviation="AONd2" url_base="u1" />
+		<part id="p11948" name="Anterior olfactory nucleus dorsal part molecular layer" abbreviation="AONd1" url_base="u1" />
+		<part id="p11820" name="Accessory olfactory bulb" abbreviation="AOB" url_base="u1" />
+		<part id="p11823" name="Accessory olfactory bulb, granular layer" abbreviation="AOBgr" url_base="u1" />
+		<part id="p11822" name="Accessory olfactory bulb, mitral layer" abbreviation="AOBmi" url_base="u1" />
+		<part id="p11821" name="Accessory olfactory bulb, glomerular layer" abbreviation="AOBgl" url_base="u1" />
+		<part id="p11815" name="Main olfactory bulb" abbreviation="MOB" url_base="u1" />
+		<part id="p12653" name="Main olfactory bulb granule cell layer" abbreviation="MOBgr" url_base="u1" />
+		<part id="p11819" name="Main olfactory bulb, inner plexiform layer" abbreviation="MOBipl" url_base="u1" />
+		<part id="p11818" name="Main olfactory bulb, mitral layer" abbreviation="MOBmi" url_base="u1" />
+		<part id="p11817" name="Main olfactory bulb, outer plexiform layer" abbreviation="MOBopl" url_base="u1" />
+		<part id="p11816" name="Main olfactory bulb, glomerular layer" abbreviation="MOBgl" url_base="u1" />
+		<part id="p11945" name="Gustatory areas" abbreviation="GU" url_base="u1" />
+		<part id="p12101" name="Visceral sensory-motor areas" abbreviation="VSM" url_base="u1" />
+		<part id="p12064" name="Infralimbic area" abbreviation="ILA" url_base="u1" />
+		<part id="p11996" name="Visceral area" abbreviation="VISC" url_base="u1" />
+		<part id="p11987" name="Somatosensory areas" abbreviation="SS" url_base="u1" />
+		<part id="p11995" name="Supplemental somatosensory area" abbreviation="SSs" url_base="u1" />
+		<part id="p11988" name="Primary somatosensory area" abbreviation="SSp" url_base="u1" />
+		<part id="p11994" name="Primary somatosensory area tupper limb" abbreviation="SSp-ul" url_base="u1" />
+		<part id="p11993" name="Primary somatosensory area trunk" abbreviation="SSp-tr" url_base="u1" />
+		<part id="p11992" name="Primary somatosensory area nose" abbreviation="SSp-n" url_base="u1" />
+		<part id="p11991" name="Primary somatosensory area mouth" abbreviation="SSp-m" url_base="u1" />
+		<part id="p11990" name="Primary somatosensory area lower limb" abbreviation="SSp-ll" url_base="u1" />
+		<part id="p11989" name="Primary somatosensory area barrel field" abbreviation="SSp-bfd" url_base="u1" />
+		<part id="p12100" name="Somatomotor areas" abbreviation="MO" url_base="u1" />
+		<part id="p11922" name="Secondary motor area" abbreviation="MOs" url_base="u1" />
+		<part id="p11866" name="Primary motor area" abbreviation="MOp" url_base="u1" />
+		<part id="p12920" name="Ganglia" abbreviation="G" url_base="u1" />
+		<part id="p12921" name="Sensory ganglia" abbreviation="GSE" url_base="u1" />
+		<part id="p12922" name="Cranial sensory ganglia" abbreviation="GCR" url_base="u1" />
+		<part id="p12923" name="terminal ganglion" abbreviation="GTE" url_base="u1" />
+		<part id="p12924" name="trigeminal ganglion" abbreviation="GV" url_base="u1" />
+		<part id="p12925" name="geniculate ganglion" abbreviation="GgVII" url_base="u1" />
+		<part id="p12926" name="spiral ganglion" abbreviation="GcVIII" url_base="u1" />
+		<part id="p12927" name="vestibular ganglion" abbreviation="GvVIII" url_base="u1" />
+		<part id="p12928" name="proximal glossopharyngeal ganglion" abbreviation="GpIX" url_base="u1" />
+		<part id="p12929" name="distal glossopharyngeal ganglion" abbreviation="GdIX" url_base="u1" />
+		<part id="p12930" name="proximal vagal ganglion" abbreviation="GpX" url_base="u1" />
+		<part id="p12931" name="distal vagal ganglion" abbreviation="GdX" url_base="u1" />
+		<part id="p12932" name="Spinal sensory ganglia" abbreviation="GSP" url_base="u1" />
+		<part id="p12933" name="cervical ganglia 1-8" abbreviation="G-C1-8" url_base="u1" />
+		<part id="p12934" name="thoracic ganglia 1-13" abbreviation="G-T1-13" url_base="u1" />
+		<part id="p12935" name="lumbar ganglia 1-6" abbreviation="G-L1-6" url_base="u1" />
+		<part id="p12936" name="sacral ganglia 1-4" abbreviation="G-S1-4" url_base="u1" />
+		<part id="p12937" name="coccygeal ganglia 1-3" abbreviation="G-Co1-3" url_base="u1" />
+		<part id="p12938" name="Autonomic ganglia" abbreviation="GA" url_base="u1" />
+		<part id="p12939" name="Sympathetic ganglia" abbreviation="GSY" url_base="u1" />
+		<part id="p12940" name="Paravertebral sympathetic ganglia" abbreviation="GPAS" url_base="u1" />
+		<part id="p12941" name="superior cervical ganglion" abbreviation="GSC" url_base="u1" />
+		<part id="p12942" name="middle cervical ganglion" abbreviation="GMC" url_base="u1" />
+		<part id="p12943" name="stellate ganglion" abbreviation="GSTL" url_base="u1" />
+		<part id="p12944" name="thoracic sympathetic ganglia T3-T13" abbreviation="Gs-T3-13" url_base="u1" />
+		<part id="p12945" name="lumbar sympathetic ganglia S1-S4" abbreviation="Gs-S1-4" url_base="u1" />
+		<part id="p12946" name="coccygeal sympathetic ganglion" abbreviation="Gs-C" url_base="u1" />
+		<part id="p12947" name="Prevertebral sympathetic ganglia" abbreviation="GPRS" url_base="u1" />
+		<part id="p12948" name="celiac ganglion" abbreviation="GCE" url_base="u1" />
+		<part id="p12949" name="superior mesenteric ganglion" abbreviation="GSM" url_base="u1" />
+		<part id="p12950" name="inferior mesenteric ganglion" abbreviation="GIM" url_base="u1" />
+		<part id="p12951" name="Parasympathetic ganglia" abbreviation="PSY" url_base="u1" />
+		<part id="p12952" name="Cranial parasympathetic ganglia" abbreviation="GPC" url_base="u1" />
+		<part id="p12953" name="ciliary ganglion" abbreviation="GcIII" url_base="u1" />
+		<part id="p12954" name="pterygopalatine ganglion" abbreviation="GptVII" url_base="u1" />
+		<part id="p12955" name="otic ganglion" abbreviation="GoIX" url_base="u1" />
+		<part id="p12956" name="Sacral parasympathetic ganglia" abbreviation="GPS" url_base="u1" />
+		<part id="p12958" name="Enteric nervous system" abbreviation="ENS" url_base="u1" />
+		<part id="p12959" name="Submucosal plexus" abbreviation="sup" url_base="u1" />
+		<part id="p12960" name="Myenteric plexus" abbreviation="myp" url_base="u1" />
+	</parts>
+</nomenclature>

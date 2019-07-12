@@ -18,12 +18,16 @@ import re
 from sklearn.metrics.pairwise import cosine_similarity
 import networkx as nx
 from nltk.corpus import stopwords
+import csv
+import xml.etree.ElementTree as ET
+
+
 
 
 
 client = MongoClient()
-db = client.corpus
-collection = db.corpusdata
+db = client.project
+collection = db.pjcollection
 nltk.download('punkt') 
 app = Flask(__name__)
 
@@ -38,6 +42,32 @@ def result():
 		result = request.form
 		x=result['X']
 		y=result['Y']
+
+
+
+
+		tree = ET.parse("abbreviation.xml")
+		root = tree.getroot()
+		
+		for app in root.findall('parts'):
+			for l in app.findall('part'): 
+				if (l.attrib['name'])==x:
+						abbx = l.attrib['abbreviation']
+						print(abbx)
+				else: 
+					abbx = 0
+				if (l.attrib['name'])==y:
+						abby = l.attrib['abbreviation']
+						print(abby)
+				else:
+					abby = 0
+		with open('bams.csv','rt')as f:
+			data = csv.reader(f)
+			for row in data:
+				if (row[0]==str(abbx) and row[1]==str(abby)):
+					print("hi")
+					score = row[2]
+					print(f"BAMS score of the TERMS:",row[2])            
 		
 		collection.create_index([('entry.summary', 'text')])
 		list_x = collection.find( { "$text": { "$search": x } } )
@@ -46,14 +76,16 @@ def result():
 		"""for item in list_x.keys( ):
 			if list_y.has_key(item):
 				list_final.append(item)"""
+
 		print(list_x.count())
 		print(list_y.count())
+		if list_x.count()>list_y.count():
+			list_final = [value for value in list_y if value in list_x]
 
-		list_final = [value for value in list_y if value in list_x]
-		if list_final==[]:
-			print("hey")
-			list_final = [x for x in list_x if x in list_y]
+		else:
+			list_final = [value for value in list_x if value in list_y]	
 
+		
 		print(list_final)
 			
 			           	
@@ -124,7 +156,7 @@ def result():
 
 
 				
-	return render_template("final.html",sim=sim,list_final=list_final,ranked_sentences=ranked_sentences[0][1],x=x,y=y)
+	return render_template("final.html",sim=sim,list_final=list_final,ranked_sentences=ranked_sentences[0][1],x=x,y=y,score=score)
 
 if __name__ == '__main__':
    app.run(debug = True)
